@@ -24,3 +24,11 @@ Project links and deadlines:
 - spend time thinking and researching of the prompt (what have people already done? what has been found? what is known and not known?)
 - look at current submissions for analytics and predictions competition and see what they are doing
 - **tracking data** = think differently about statistics that you have ever before
+
+Look at these links for help on visualization and animation: 
+
+[EDA + MODEL + VIDEO + 3D VIDEO](https://www.kaggle.com/code/taylorsamarel/eda-model-video-3d-video) 
+
+[NFL Animations made simple | nfl-tracks](https://www.kaggle.com/code/mohammedshammeer/nfl-animations-made-simple-nfl-tracks)
+
+[ Player Tracking Animation V1](https://www.kaggle.com/code/dedquoc/nfl-bdb-2026-player-tracking-animation-v1)
